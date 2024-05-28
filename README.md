@@ -1,4 +1,4 @@
-# project-
+# project-Intrusion Detection System using Machine Learning
 In the realm of network security, Intrusion Detection Systems (IDS) play a crucial role in safeguarding against an array of sophisticated threats. This paper introduces an innovative IDS paradigm that capitalizes on the capabilities of Machine Learning (ML) algorithms to bolster the detection and classification of network intrusions.
 
 The proposed IDS system employs supervised learning techniques, enabling it to glean insights from labelled datasets and effectively discern patterns associated with both normal and malicious network behaviour. A key strength lies in the system's adaptability, as continuous retraining ensures its responsiveness to emerging threats, thereby maintaining a proactive defence posture.
