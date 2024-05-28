@@ -11,3 +11,7 @@ Objective:
 The objective of the project is to find or extract patterns in a network traffic dataset that are indicative enough to make users understand that they are malicious traffic. 
 A traffic is said to be malicious if it consists of some data that are considered to be affecting the resources of a computer or a system. If the resources of the system get affected then the system will not able to function properly. The aim of this project is to develop an Intrusion Detection System that would consider both the internet and intranet traffic and try to monitor, track, and detect malicious data in the traffic.
 
+
+
+
+
